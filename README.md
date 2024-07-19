@@ -37,7 +37,7 @@ This project provides a RESTful API for managing a supply chain system, includin
 
     ```env
     DATABASE_URL=postgres://username:password@localhost:5432/supply_chain_db
-    PORT=3000
+    PORT=8000
     ```
 
     Replace `username`, `password`, and `supply_chain_db` with your PostgreSQL credentials and database name.
